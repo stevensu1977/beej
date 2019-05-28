@@ -1,5 +1,5 @@
 ### beej
-beej is jmeter distribute deploy tools with aws ec2, this idea come from beeswithmanchine 
+beej is jmeter distribute deploy tools with aws ec2, this idea come from [beeswithmanchine](https://github.com/newsapps/beeswithmachineguns)
 
 已经做好的beej AMI:
 
