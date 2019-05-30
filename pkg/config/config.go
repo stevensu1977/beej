@@ -10,8 +10,8 @@ import (
 //DefaultHome user home
 const DefaultHome = "/home/ec2-user"
 
-const TagMaster = "beepj-master"
-const TagSlave = "beepj"
+const TagMaster = "beej-master"
+const TagSlave = "beej"
 
 //T2Micro instance type
 const T2Micro = "t2.micro"
